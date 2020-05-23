@@ -1,0 +1,8 @@
+f=open('hello.py','wb+')
+f.write(b'hello kitty')
+f.flush()
+print('偏移位置为：',f.tell())
+f.seek(0,0)
+data=f.read()
+print('读',data)
+f.close()

@@ -1,0 +1,5 @@
+displacement = float(input("请输入位移:"))
+time = float(input("请输入时间:"))
+initial_velocity = float(input("请输入初速度:"))
+accelerated_speed = (displacement - initial_velocity * time) / (time ** 2 * 0.5)
+print("经计算加速度为:" + str(accelerated_speed))
