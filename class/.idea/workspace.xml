@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="810fb7c3-edc8-48c3-9ba2-d2befa19903b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="preparatory course" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zen2XXKINHdg9sKYFi1dmh8PXo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../official courses/month02/day17" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../official courses/month02/day17" />
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$/../official courses/month02" />
+      <recent name="$PROJECT_DIR$/../official courses/month02/day04" />
+      <recent name="$PROJECT_DIR$/../official courses/month02/month02exercise" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../official courses" />
+      <recent name="$PROJECT_DIR$/../official courses/month02/day17" />
+      <recent name="$PROJECT_DIR$/../official courses/month02/day16" />
+      <recent name="$PROJECT_DIR$/../official courses/month02/day15" />
+      <recent name="$PROJECT_DIR$/../official courses/month02/day13" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.caogao09web_server">
+    <configuration name="上课打卡" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="official courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../official courses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../official courses/上课打卡.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="上课打卡" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="official courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../official courses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../official courses/上课打卡.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="上课打卡" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="official courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../official courses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../official courses/上课打卡.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="打卡" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="official courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../official courses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../official courses/打卡.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="caogao09web_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="official courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../official courses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../official courses/caogao09web_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="caogao09web_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="official courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../official courses/month02/day17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../official courses/caogao09web_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="epoll_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="official courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../official courses/month02/day17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../official courses/month02/day17/epoll_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poll_server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="preparatory course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/下载/month02/day17" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/下载/month02/day17/poll_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poll_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="official courses" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../official courses/month02/day16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../official courses/month02/day17/poll_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.caogao09web_server" />
+        <item itemvalue="Python.poll_server (1)" />
+        <item itemvalue="Python.poll_server" />
+        <item itemvalue="Python.epoll_server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="810fb7c3-edc8-48c3-9ba2-d2befa19903b" name="Default Changelist" comment="" />
+      <created>1585212142883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585212142883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="34" width="658" height="857" key="#caogao08ftp" timestamp="1590043288152">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="419" y="34" width="658" height="857" key="#caogao08ftp/67.27.1373.873@67.27.1373.873" timestamp="1590043288152" />
+    <state x="419" y="34" width="658" height="857" key="#caogao09web_server" timestamp="1590239494164">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="419" y="34" width="658" height="857" key="#caogao09web_server/67.27.1373.873@67.27.1373.873" timestamp="1590239494164" />
+    <state x="538" y="294" width="754" height="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588132503525">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="538" y="294" width="754" height="337" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1373.873@67.27.1373.873" timestamp="1588132503525" />
+    <state x="702" y="349" width="573" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1585275272235" />
+    <state x="801" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1587181787532">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1587181787532" />
+    <state x="659" y="124" width="658" height="857" key="#personal_income_tax_v2" timestamp="1587082567638">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="659" y="124" width="658" height="857" key="#personal_income_tax_v2/67.27.1853.1053@67.27.1853.1053" timestamp="1587082567638" />
+    <state x="588" y="402" width="609" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586825503834">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="402" width="609" height="307" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1853.1053@67.27.1853.1053" timestamp="1586825503834" />
+    <state width="712" height="438" key="DebuggerActiveHint" timestamp="1587911966401">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="712" height="438" key="DebuggerActiveHint/67.27.1373.873@67.27.1373.873" timestamp="1587911966401" />
+    <state x="141" y="108" width="1225" height="709" key="DiffContextDialog" timestamp="1587385792026">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="141" y="108" width="1225" height="709" key="DiffContextDialog/67.27.1373.873@67.27.1373.873" timestamp="1587385792026" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585710939697" />
+    <state x="629" y="259" width="380" height="430" key="FileChooserDialogImpl" timestamp="1590325353073">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="629" y="259" width="380" height="430" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1590325353073" />
+    <state x="771" y="293" width="424" height="518" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585557926284" />
+    <state width="1346" height="273" key="GridCell.Tab.0.bottom" timestamp="1590245413359">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1346" height="273" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1590245413359" />
+    <state width="1826" height="280" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1587179707746" />
+    <state width="1346" height="273" key="GridCell.Tab.0.center" timestamp="1590245413359">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1346" height="273" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1590245413359" />
+    <state width="1826" height="280" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1587179707746" />
+    <state width="1346" height="273" key="GridCell.Tab.0.left" timestamp="1590245413359">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1346" height="273" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1590245413359" />
+    <state width="1826" height="280" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1587179707745" />
+    <state width="1346" height="273" key="GridCell.Tab.0.right" timestamp="1590245413359">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1346" height="273" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1590245413359" />
+    <state width="1826" height="280" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1587179707746" />
+    <state width="1346" height="248" key="GridCell.Tab.1.bottom" timestamp="1589868164625">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1346" height="248" key="GridCell.Tab.1.bottom/67.27.1373.873@67.27.1373.873" timestamp="1589868164625" />
+    <state width="1826" height="317" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1587140660342" />
+    <state width="1346" height="248" key="GridCell.Tab.1.center" timestamp="1589868164625">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1346" height="248" key="GridCell.Tab.1.center/67.27.1373.873@67.27.1373.873" timestamp="1589868164625" />
+    <state width="1826" height="317" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1587140660342" />
+    <state width="1346" height="248" key="GridCell.Tab.1.left" timestamp="1589868164625">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1346" height="248" key="GridCell.Tab.1.left/67.27.1373.873@67.27.1373.873" timestamp="1589868164625" />
+    <state width="1826" height="317" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1587140660342" />
+    <state width="1346" height="248" key="GridCell.Tab.1.right" timestamp="1589868164625">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1346" height="248" key="GridCell.Tab.1.right/67.27.1373.873@67.27.1373.873" timestamp="1589868164625" />
+    <state width="1826" height="317" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1587140660342" />
+    <state x="119" y="158" key="SettingsEditor" timestamp="1589502554731">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="119" y="158" key="SettingsEditor/67.27.1373.873@67.27.1373.873" timestamp="1589502554731" />
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1586247632920" />
+    <state x="67" y="105" width="1843" height="934" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586957446357">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="105" width="1843" height="934" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1586957446357" />
+    <state x="587" y="48" width="859" height="1032" key="find.popup" timestamp="1586855460727">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="587" y="48" width="859" height="1032" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586855460727" />
+    <state x="554" y="387" width="796" height="456" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586247152245">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="554" y="387" width="796" height="456" key="org.intellij.images.editor.actions.BackgroundImageDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586247152245" />
+    <state x="642" y="191" width="501" height="728" key="refactoring.ChangeSignatureDialog" timestamp="1586594947426">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="642" y="191" width="501" height="728" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586594947426" />
+    <state x="503" y="218" width="498" height="563" key="search.everywhere.popup" timestamp="1589878365049">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="503" y="218" width="498" height="563" key="search.everywhere.popup/67.27.1373.873@67.27.1373.873" timestamp="1589878365049" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586612565925" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/下载/day03_all/day03/demo01.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../official courses/month01/day03/exercise10.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/下载/day11_05/day11/demo05.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/month01/day11_all/day11/day10_exercise/personal_income_tax_v2.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../official courses/month01/day13/exercise03.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/下载/day17_03/day17/demo03.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/下载/day18_all/day18/exercise02.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../official courses/month01/day19/exercise01.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/下载/day19_all/day19/expanded/traffic.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
